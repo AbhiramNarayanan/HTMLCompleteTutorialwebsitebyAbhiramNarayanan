@@ -1,0 +1,31 @@
+body{
+    background-color: brown;
+}
+table{
+    background-color: azure;
+    border-collapse: collapse;
+    border-color: blueviolet;
+    border-width: 2px;
+
+
+}
+th{
+    color: blueviolet;
+    font-size: 50px;
+    text-align: center;
+    padding: 10px;
+}
+td{
+    color: rgb(255, 127, 255);
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-weight:bold;
+}
+caption{
+    font-weight: bolder;
+}

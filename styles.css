@@ -1,0 +1,81 @@
+body{
+    background-color: hsla(150, 100%, 40%,0.5);
+    font-size:medium;
+    background-image: url(abc.jpeg);
+    background-repeat:no-repeat;
+    background-size: 100%,100%;
+    background-attachment: fixed;
+
+
+}
+h1{
+    background-color: rgb(255, 196, 196);
+}
+h2{
+    background-color:hsl(100, 100%, 70%);
+}
+p1{
+    background-color:rgb(255, 196, 228);
+}
+p2{
+    background-color: rgb(255, 0, 47);
+}
+h3{
+    background-color: #99ff66;
+}
+h4{
+    background-color: 	rgba(255, 140, 102,0.3);
+}
+a:link{
+    text-decoration:none;
+    font-size: 30px;
+}
+a:hover{
+    color:
+    rgb(255, 127, 127);
+}
+.vegetable{
+    background-color: blueviolet;
+    color: #99ff66;
+    text-align: center;
+
+}
+.fruit{
+    background-color: rgb(226, 43, 55);
+    color: #66e6ff;
+    text-align: center;
+
+}
+#veg1{
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+}
+#fruit1{
+    background-color: rgb(255, 242, 0);
+    color: rgb(238, 0, 255);
+    text-align: center;
+}
+li{
+    float: left;
+    padding: 15px;
+    color: blue;
+    font-size: 30px;
+}
+ol{
+    list-style-type: none;
+}
+li:hover{
+    color:red;
+}
+ul{
+    background-color: #ff66d4;
+    overflow: hidden;
+    font-size: 15px;
+}
+ol{
+    background-color: #99ff66;
+    overflow: hidden;
+    padding: 100,100;
+
+}
